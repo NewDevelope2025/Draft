@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+h1 {
+ margin: 10px;
+ text-align: center;
+ color: darkgreen;
+ font-size: 40px;
+ border: 4px solid black;
+ 
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+  display: flex;
+  justify-content: center;
+
+}
+
+
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+
+  
+
+}
+ul li a:hover {
+  background-color: #111111;
+
+}
+
+.picture {
+  text-align: center;
+  }
+img {
+  border: 4px solid greenyellow;
+}
+h3, p {
+ 
+  padding-left: 40px;
+  padding-right: 5%;
+  text-align: justify;
+ 
+}
